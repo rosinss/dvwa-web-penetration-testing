@@ -325,6 +325,9 @@ These controls were documented as mitigation recommendations. Their implementati
 ```text
 dvwa-web-penetration-testing/
 ├── README.md
+├── documentation/
+│   ├── lab-setup.md
+│   └── mitigation.md
 └── screenshots/
     ├── README.md
     ├── stored-xss-input.png
@@ -336,6 +339,12 @@ dvwa-web-penetration-testing/
     ├── csrf-login-verification.png
     └── csrf-authenticated-result.png
 ```
+
+### Additional Documentation
+
+- [Laboratory Setup](./documentation/lab-setup.md)
+- [Vulnerability Mitigation Recommendations](./documentation/mitigation.md)
+- [Practical Testing Screenshots](./screenshots/)
 
 ## 14 / Future Improvements
 
